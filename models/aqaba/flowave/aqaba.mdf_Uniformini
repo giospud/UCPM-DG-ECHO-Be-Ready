@@ -1,0 +1,115 @@
+Ident  = #Delft3D-FLOW 3.59.01.57433#
+Commnt =                  
+Filcco = #aqaba.grd#
+Anglat =  2.9516600e+001
+Grdang =  0.0000000e+000
+Filgrd = #aqaba.enc#
+MNKmax = 216 550 11
+Thick  =  1.5000000e+000
+          2.0000000e+000
+          5.0000000e+000
+          1.0000000e+001
+          1.9000000e+001
+          2.5000000e+001
+          1.9000000e+001
+          1.0000000e+001
+          5.0000000e+000
+          2.0000000e+000
+          1.5000000e+000
+Commnt =                  
+Fildep = #aqaba.dep#
+Commnt =                  
+Commnt =                 no. dry points: 0
+Commnt =                 no. thin dams: 87
+Filtd  = #aqaba.thd#
+Commnt =                  
+Itdate = #2018-11-01#
+Tunit  = #M#
+Tstart =  
+Tstop  =  
+Dt     = 
+Tzone  = 2
+Commnt =                  
+Sub1   = #  W #
+Sub2   = #  W#
+Commnt =                  
+Wnsvwp = #N#
+Filwnd = #wind.wnd#
+Wndint = #Y#
+Commnt =                  
+Zeta0  =  0.0000000e+000
+Commnt =                  
+Commnt =                 no. open boundaries: 1
+Filbnd = #boundary.bnd#
+FilbcT = #timeseries.bct#
+Commnt =                  
+Ag     =  9.8100000e+000
+Rhow   =  1.0000000e+003
+Tempw  =  1.5000000e+001
+Salw   =  3.1000000e+001
+Rouwav = #FR84#
+Wstres =  6.3000000e-004  0.0000000e+000  7.2300000e-003  1.0000000e+002  7.2300000e-003  1.0000000e+002
+Rhoa   =  1.0000000e+000
+Betac  =  5.0000000e-001
+Equili = #N#
+Tkemod = #K-epsilon   #
+Ktemp  = 0
+Fclou  =  0.0000000e+000
+Sarea  =  0.0000000e+000
+Temint = #Y#
+Commnt =                  
+Roumet = #C#
+Ccofu  =  6.5000000e+001
+Ccofv  =  6.5000000e+001
+Xlo    =  1.0000000e-006
+Vicouv =  
+Dicouv =  1.0000000e+000
+Htur2d = #N#
+Vicoww =  1.0000000e-006
+Dicoww =  1.0000000e-006
+Irov   = 0
+Commnt =                  
+Iter   =      2
+Dryflp = #YES#
+Dpsopt = #MAX#
+Dpuopt = #MEAN#
+Dryflc =  1.0000000e-001
+Dco    = -9.9900000e+002
+Tlfsmo =  7.2000000e+002
+ThetQH =  0.0000000e+000
+Forfuv = #Y#
+Forfww = #Y#
+Sigcor = #N#
+Trasol = #Cyclic-method#
+Momsol = #Cyclic#
+Commnt =                  
+Commnt =                 no. discharges: 0
+Commnt =                 no. observation points: 0
+Commnt =                 no. drogues: 0
+Commnt =                  
+Commnt =                  
+Commnt =                 no. cross sections: 0
+Commnt =                  
+SMhydr = #YYYYY#     
+SMderv = #YYYYYY#    
+SMproc = #YYYYYYYYYY#
+PMhydr = #YYYYYY#    
+PMderv = #YYY#       
+PMproc = #YYYYYYYYYY#
+SHhydr = #YYYY#      
+SHderv = #YYYYY#     
+SHproc = #YYYYYYYYYY#
+SHflux = #YYYY#      
+PHhydr = #YYYYYY#    
+PHderv = #YYY#       
+PHproc = #YYYYYYYYYY#
+PHflux = #YYYY#      
+Flmap  =  
+Flhis  =  
+Flpp   =  
+Flrst  = 
+Commnt =                  
+Online = #N#
+WaveOL = #Y#
+SMlay  = 1
+Commnt =                  

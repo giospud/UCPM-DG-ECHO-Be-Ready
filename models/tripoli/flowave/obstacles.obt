@@ -1,0 +1,52 @@
+[ObstacleFileInformation]
+   FileVersion  = 02.00                        
+   PolylineFile = obstacles.pol                 
+[Obstacle]
+   Name         = L000001                      
+   Type         = dam                          
+   Height       =  3.0000000e+000              
+   Alpha        =  2.5999999e+000              
+   Beta         =  1.5000001e-001              
+   Reflections  = no                           
+[Obstacle]
+   Name         = L000002                      
+   Type         = dam                          
+   Height       =  3.0000000e+000              
+   Alpha        =  2.5999999e+000              
+   Beta         =  1.5000001e-001              
+   Reflections  = no                           
+[Obstacle]
+   Name         = L000003                      
+   Type         = dam                          
+   Height       =  3.0000000e+000              
+   Alpha        =  2.5999999e+000              
+   Beta         =  1.5000001e-001              
+   Reflections  = no                           
+[Obstacle]
+   Name         = L000004                      
+   Type         = dam                          
+   Height       =  3.0000000e+000              
+   Alpha        =  2.5999999e+000              
+   Beta         =  1.5000001e-001              
+   Reflections  = no                           
+[Obstacle]
+   Name         = L000005                      
+   Type         = dam                          
+   Height       =  3.0000000e+000              
+   Alpha        =  2.5999999e+000              
+   Beta         =  1.5000001e-001              
+   Reflections  = no                           
+[Obstacle]
+   Name         = L000006                      
+   Type         = dam                          
+   Height       =  3.0000000e+000              
+   Alpha        =  2.5999999e+000              
+   Beta         =  1.5000001e-001              
+   Reflections  = no                           
+[Obstacle]
+   Name         = L000007                      
+   Type         = dam                          
+   Height       =  3.0000000e+000              
+   Alpha        =  2.5999999e+000              
+   Beta         =  1.5000001e-001              
+   Reflections  = no                           
